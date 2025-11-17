@@ -1,0 +1,24 @@
+speaker,phase,valence,count,total,share
+Barack Obama,campaign,negative,138,1500,0.092
+Barack Obama,campaign,neutral,2,1500,0.0013333333333333333
+Barack Obama,campaign,neutral/other,537,1500,0.358
+Barack Obama,campaign,positive,823,1500,0.5486666666666666
+Barack Obama,presidency,negative,132,1500,0.088
+Barack Obama,presidency,neutral,1,1500,0.0006666666666666666
+Barack Obama,presidency,neutral/other,572,1500,0.38133333333333336
+Barack Obama,presidency,positive,795,1500,0.53
+Donald Trump,campaign,negative,409,1500,0.27266666666666667
+Donald Trump,campaign,neutral,1,1500,0.0006666666666666666
+Donald Trump,campaign,neutral/other,317,1500,0.21133333333333335
+Donald Trump,campaign,positive,773,1500,0.5153333333333333
+Donald Trump,presidency,negative,381,1500,0.254
+Donald Trump,presidency,neutral/other,330,1500,0.22
+Donald Trump,presidency,positive,789,1500,0.526
+Joe Biden,campaign,negative,380,1500,0.25333333333333335
+Joe Biden,campaign,neutral,6,1500,0.004
+Joe Biden,campaign,neutral/other,538,1500,0.3586666666666667
+Joe Biden,campaign,positive,576,1500,0.384
+Joe Biden,presidency,negative,118,1122,0.1051693404634581
+Joe Biden,presidency,neutral,2,1122,0.0017825311942959
+Joe Biden,presidency,neutral/other,509,1122,0.4536541889483066
+Joe Biden,presidency,positive,493,1122,0.4393939393939394
