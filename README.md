@@ -167,8 +167,6 @@ In the browser app you can:
 - Focus on specific **emotions** (e.g. anger, fear, pride).
 - See interactive bar charts and time-series of emotion usage.
 
-This covers the “plots or dashboards comparing emotional tone across actors and phases” part of the project.
-
 ---
 
 ## 6. SHAP-based explainability (optional)
@@ -211,6 +209,3 @@ If SHAP is too slow or causes memory issues, you can skip this step; the rest of
 7. Optionally run `streamlit run app/streamlit_app.py` for an interactive dashboard.
 8. Optionally run `python scripts/explain_tweet_shap.py --index N` to get a SHAP HTML explanation
    for tweet N.
-
-This should give you a **complete, VS-Code-ready project** focused on emotional framing in
-presidential tweets, aligned with the GoEmotions taxonomy and your assignment requirements.
