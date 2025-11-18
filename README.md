@@ -54,7 +54,7 @@ the `--*_csv` arguments when you run the pipeline.
 ## 3. Installation & setup in Visual Studio Code (macOS)
 
 1. **Download and unzip the project**
-   - Save the zip from ChatGPT as, e.g., `EmotionFraming_Twitter.zip`.
+   - Save the zip as, e.g., `EmotionFraming_Twitter.zip`.
    - Unzip it, for instance into `~/Downloads/EmotionFraming_Twitter`.
 
 2. **Open the folder in VS Code**
